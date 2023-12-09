@@ -1,0 +1,1 @@
+A simple Caesar cipher algorithm to encrypt and decrypt text from a .txt file
